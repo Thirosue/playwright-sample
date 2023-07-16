@@ -1,0 +1,21 @@
+{
+  "name": "playwright-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thirosue/playwright-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thirosue/playwright-sample/issues"
+  },
+  "homepage": "https://github.com/Thirosue/playwright-sample#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.36.1"
+  }
+}
