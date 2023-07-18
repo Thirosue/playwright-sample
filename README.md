@@ -26,7 +26,7 @@ npx playwright test
 npx playwright test todo-action.spec.ts
 ```
 
-## Debug
+- Debug
 
 ```
 npx playwright test todo-action.spec.ts --debug
